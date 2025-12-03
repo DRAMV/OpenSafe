@@ -86,6 +86,9 @@ chmod +x Password_Manager_Linux
 
 ./Password_Manager_Linux
 
+
+
+
 **Password Manager Menu (Options 1-5)**
 
 1.  Add New Entry: Prompts for Host/Site, URL, and Username. A strong, 16-character password is automatically generated.
